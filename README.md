@@ -1,5 +1,4 @@
-The application was developed in Laravel using MySql database. The data was generated using migrations,factories and seeding. The application consists of two parts, first one, consisting of basic CRUD operations done on company workers. Second one, consisting of operations read,create, and delete on company departments.
-Every worker can be assigned to only one department.
+The application was developed in Laravel using MySql database. The data was generated using migrations, factories and seeding. The application consists of two parts, first one, consisting of basic CRUD operations done on company workers. Second one, consisting of operations read, create, and delete on company departments.Every worker can be assigned to only one department.
 
 Preview:
 
